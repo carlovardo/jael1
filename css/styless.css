@@ -1,0 +1,58 @@
+@import url('https://fonts.googleapis.com/css2?family=Vina+Sans&display=swap');
+
+.contenedor {
+  background-color: azure;
+  display: flex;
+  justify-content: space-around
+}
+body {
+    background-color: rgb(247, 220, 234);
+  }
+  .header {
+    background-color: bisque;
+    display: center;
+  }
+  .nav{
+    background-color: burlywood;
+  }
+  h1 {
+    font-family: 'Vina Sans', cursive;
+  } 
+  p {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 20px;
+  }
+  h2 {
+    font-family: 'Vina Sans', cursive;
+  } 
+  h3 {
+    font-family: 'Vina Sans', cursive;
+  } 
+  h1 {
+    text-decoration-line: overline;
+  }
+  h3 {
+    font-family: 'Vina Sans', cursive;
+  }
+  li {
+    color: rgb(41, 156, 18);
+    text-align: left;
+  } 
+  h3 {
+    text-shadow: 2px 2px 5px red;
+  }
+  p {
+    color: rgb(78, 13, 13);
+    text-align: left;
+  } 
+  head {
+    color: rgb(104, 34, 34);
+    text-align: left
+  }
+.section{
+  background-color: brown;
+}
+.article{
+  background-color: cornsilk;
+}
+  .footer {background-color: blanchedalmond;}
